@@ -1,0 +1,9 @@
+D:\FSD\Reminder\Reminder\bin\Release\Reminder.exe.config
+D:\FSD\Reminder\Reminder\bin\Release\Reminder.exe
+D:\FSD\Reminder\Reminder\bin\Release\Reminder.pdb
+D:\FSD\Reminder\Reminder\obj\Release\Reminder.Form1.resources
+D:\FSD\Reminder\Reminder\obj\Release\Reminder.Properties.Resources.resources
+D:\FSD\Reminder\Reminder\obj\Release\Reminder.csproj.GenerateResource.cache
+D:\FSD\Reminder\Reminder\obj\Release\Reminder.csproj.CoreCompileInputs.cache
+D:\FSD\Reminder\Reminder\obj\Release\Reminder.exe
+D:\FSD\Reminder\Reminder\obj\Release\Reminder.pdb

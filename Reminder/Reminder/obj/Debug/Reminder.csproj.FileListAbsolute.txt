@@ -1,0 +1,10 @@
+D:\FSD\Reminder\Reminder\bin\Debug\Reminder.exe.config
+D:\FSD\Reminder\Reminder\bin\Debug\Reminder.exe
+D:\FSD\Reminder\Reminder\bin\Debug\Reminder.pdb
+D:\FSD\Reminder\Reminder\obj\Debug\Reminder.csprojAssemblyReference.cache
+D:\FSD\Reminder\Reminder\obj\Debug\Reminder.Form1.resources
+D:\FSD\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+D:\FSD\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.cache
+D:\FSD\Reminder\Reminder\obj\Debug\Reminder.csproj.CoreCompileInputs.cache
+D:\FSD\Reminder\Reminder\obj\Debug\Reminder.exe
+D:\FSD\Reminder\Reminder\obj\Debug\Reminder.pdb
